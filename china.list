@@ -1,0 +1,14 @@
+# Tencent
+USER-AGENT,MicroMessenger Client
+USER-AGENT,WeChat*
+USER-AGENT,MApi* // Dianping
+# Alibaba
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,.tmall.
+# Baidu
+DOMAIN-KEYWORD,baidu
+# China
+DOMAIN-SUFFIX,CN
